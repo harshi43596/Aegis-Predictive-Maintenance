@@ -1,0 +1,3 @@
+<img width="1882" height="836" alt="output" src="https://github.com/user-attachments/assets/e8c67304-1888-43d1-b858-ac9c25247d21" />
+For M-014, the dashboard would recommend an immediate review: verify the readings, inspect the machine, and follow site procedures for load reduction or a controlled stop. It would flag the elevated temperature, vibration, low pressure, and current.
+The dashboard also shows fleet summary cards, a risk distribution chart, sensor trends for the selected asset, and a button to download scored results as a CSV. The percentages are raw model scores, not calibrated real-world failure probabilities.
